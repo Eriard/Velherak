@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [About](about.md)
 * [Store](README.md)
 * [Forum](README.md)
 * [Newsletter](README.md)
@@ -30,8 +31,6 @@
     * [Challenges](rulebook/playing-the-game/actions/challenges.md)
     * [Conflict](rulebook/playing-the-game/actions/conflict.md)
   * [Belongings](rulebook/playing-the-game/belongings.md)
-  * [Talismans](rulebook/playing-the-game/talismans.md)
-  * [Relics](rulebook/playing-the-game/relics.md)
   * [Ceremonies](rulebook/playing-the-game/ceremonies.md)
   * [Downtime](rulebook/playing-the-game/downtime.md)
 * [Leading the Game](rulebook/leading-the-game/README.md)

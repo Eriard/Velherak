@@ -3,7 +3,7 @@ hidden: true
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -18,3 +18,33 @@ layout:
 
 # Belongings
 
+## Ordinary
+
+### Items
+
+### Arms
+
+* Light
+* Medium
+* Heavy
+
+### Protection
+
+* Armour
+* Shields
+
+## Mystical
+
+### Charm
+
+* Shatter
+
+### Talisman
+
+* Invoke
+* Shatter
+
+### Relic
+
+* Boon
+* Invoke
