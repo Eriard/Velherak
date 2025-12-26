@@ -74,16 +74,12 @@ Your ability to shift attention elsewhere or avoid harm.
 #### Endurance
 
 Your ability to endure hardship
-
-***
 {% endcolumn %}
 
 {% column %}
 #### Escalate
 
 Your ability to inflict harm
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -161,9 +157,7 @@ How well you express yourself
 
 > Hear, See, Smell
 
-How well you cut through the noise<br>
-
-***
+How well you cut through the noise
 {% endcolumn %}
 
 {% column %}
@@ -172,8 +166,6 @@ How well you cut through the noise<br>
 > Forage, Track, Traverse
 
 How quickly you find routes, safe places and food.
-
-***
 {% endcolumn %}
 {% endcolumns %}
 
