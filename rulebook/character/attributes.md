@@ -175,6 +175,8 @@ How quickly you find routes, safe places and food.
 
 ## Potential
 
+***
+
 {% columns %}
 {% column %}
 ### Spirit
