@@ -87,7 +87,9 @@ Use the Standard Array to fill in your Intents\
 {% endcolumn %}
 {% endcolumns %}
 
-## Skills
+***
+
+## kills
 
 {% columns %}
 {% column %}
@@ -142,6 +144,8 @@ How well you cut through the noise
 How quickly you find routes, safe places and food.
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 ## Potential
 
