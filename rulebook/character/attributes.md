@@ -89,7 +89,7 @@ Use the Standard Array to fill in your Intents\
 
 ***
 
-## kills
+## Skills
 
 {% columns %}
 {% column %}
