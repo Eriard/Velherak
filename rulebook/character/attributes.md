@@ -23,7 +23,7 @@ layout:
 
 {% columns %}
 {% column %}
-### Strengths
+### Force
 {% endcolumn %}
 
 {% column %}
@@ -86,7 +86,7 @@ Your ability to inflict harm
 {% columns %}
 {% column %}
 {% hint style="warning" %}
-Use the Standard Array to fill in your Strengths\
+Use the Standard Array to fill in your Force\
 3, 2, 1
 {% endhint %}
 {% endcolumn %}
