@@ -43,6 +43,8 @@ Your ability to calm a situation
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 {% columns %}
 {% column %}
 #### Finesse
@@ -57,6 +59,8 @@ Your ability to shift attention elsewhere or avoid harm.
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 {% columns %}
 {% column %}
 #### Endurance
@@ -70,6 +74,8 @@ Your ability to endure hardship
 Your ability to inflict harm
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 {% columns %}
 {% column %}
