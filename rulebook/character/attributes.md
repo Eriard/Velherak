@@ -115,7 +115,7 @@ Use the Standard Array to fill in your Intents\
 
 > Lie, Quiet, Sneak&#x20;
 
-How well can you hide something<br>
+How well can you hide something
 
 ***
 {% endcolumn %}
