@@ -34,6 +34,8 @@ layout:
 #### Wits
 
 Your Cleverness and ability to think under pressure
+
+***
 {% endcolumn %}
 
 {% column %}
@@ -42,8 +44,6 @@ Your Cleverness and ability to think under pressure
 Your ability to calm a situation
 {% endcolumn %}
 {% endcolumns %}
-
-***
 
 {% columns %}
 {% column %}
