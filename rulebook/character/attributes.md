@@ -19,6 +19,8 @@ layout:
 
 ## Traits&#x20;
 
+***
+
 {% columns %}
 {% column %}
 ### Strengths
@@ -41,7 +43,9 @@ Your Cleverness and ability to think under pressure
 {% column %}
 #### Subdue
 
-Your ability to calm a situation
+Your ability to calm a situation<br>
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -49,13 +53,17 @@ Your ability to calm a situation
 {% column %}
 #### Finesse
 
-Your ability to embody elegance
+Your ability to embody elegance<br>
+
+***
 {% endcolumn %}
 
 {% column %}
 #### Deflect
 
 Your ability to shift attention elsewhere or avoid harm.
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -66,12 +74,16 @@ Your ability to shift attention elsewhere or avoid harm.
 #### Endurance
 
 Your ability to endure hardship
+
+***
 {% endcolumn %}
 
 {% column %}
 #### Escalate
 
 Your ability to inflict harm
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -97,13 +109,17 @@ Use the Standard Array to fill in your Intents\
 
 ## Skills
 
+***
+
 {% columns %}
 {% column %}
 #### Conceal
 
 > Lie, Quiet, Sneak&#x20;
 
-How well can you hide something
+How well can you hide something<br>
+
+***
 {% endcolumn %}
 
 {% column %}
@@ -112,6 +128,8 @@ How well can you hide something
 > Investigate,
 
 How quickly/well you can understand something
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -122,6 +140,8 @@ How quickly/well you can understand something
 > Read Body Language, Show Care
 
 How well you understand others
+
+***
 {% endcolumn %}
 
 {% column %}
@@ -130,6 +150,8 @@ How well you understand others
 > Dance, Sing, Talk
 
 How well you express yourself
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -139,7 +161,9 @@ How well you express yourself
 
 > Hear, See, Smell
 
-How well you cut through the noise
+How well you cut through the noise<br>
+
+***
 {% endcolumn %}
 
 {% column %}
@@ -148,6 +172,8 @@ How well you cut through the noise
 > Forage, Track, Traverse
 
 How quickly you find routes, safe places and food.
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
