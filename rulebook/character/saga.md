@@ -17,4 +17,14 @@ layout:
 
 # Saga
 
-asd
+## Age
+
+## Legend
+
+## Burden
+
+
+
+### Names
+
+Burdens are often taken as names, while legends become titles of honour, those near may use a burden, while others must use a legend to call you by.

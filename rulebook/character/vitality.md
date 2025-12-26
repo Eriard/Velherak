@@ -17,4 +17,12 @@ layout:
 
 # Vitality
 
-asd
+{% columns %}
+{% column %}
+### Stress
+{% endcolumn %}
+
+{% column %}
+### Trauma
+{% endcolumn %}
+{% endcolumns %}
