@@ -2,7 +2,7 @@
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:

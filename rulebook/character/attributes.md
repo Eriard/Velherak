@@ -2,7 +2,7 @@
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -17,4 +17,30 @@ layout:
 
 # Attributes
 
-asd
+## Traits&#x20;
+
+### Force
+
+#### Wits
+
+#### Finesse
+
+#### Endurance
+
+### Intent
+
+#### Subdue
+
+#### Deflect
+
+#### Escalate
+
+## Skills
+
+
+
+## Potential
+
+### Spirit
+
+### Insight
