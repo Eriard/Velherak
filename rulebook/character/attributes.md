@@ -67,8 +67,6 @@ Your ability to shift attention elsewhere or avoid harm.
 {% endcolumn %}
 {% endcolumns %}
 
-***
-
 {% columns %}
 {% column %}
 #### Endurance
