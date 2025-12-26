@@ -24,10 +24,14 @@ layout:
 {% columns %}
 {% column %}
 ### Force
+
+***
 {% endcolumn %}
 
 {% column %}
 ### Intent
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
